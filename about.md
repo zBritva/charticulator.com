@@ -17,7 +17,7 @@ Charticulator is a project from [Microsoft Research](https://www.microsoft.com/e
     </div>
     <div class="author-list-item">
         <a href="https://github.com/zbritva">
-            <div class="el-image"><img src="{{ '/images/authors/author_ilfat.jpg' | relativize_url }}" alt="Ilfat Galliev" /></div>
+            <div class="el-image"><img src="{{ '/images/authors/author_ilfat.jpg' | relativize_url }}" alt="Ilfat Galiev" /></div>
             <div class="el-name">Ilfat Galliev</div>
             <div class="el-affiliation">Akvelon</div>
         </a>
